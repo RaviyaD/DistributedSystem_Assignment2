@@ -61,7 +61,7 @@ class App extends Component{
     this.getDetails();
     setInterval(()=>{
       this.getDetails()
-    }, 15000)
+    }, 40000)
   }
 
 
