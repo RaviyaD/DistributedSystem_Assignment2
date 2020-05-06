@@ -1,0 +1,25 @@
+1.	Download GitHub Project to Local Directory in the PC.
+
+2.	Open RESTful Web Service, SensorDummy and Web Client separately by IntelliJ IDE (or WebStorm) separately.
+
+
+3.	Open Terminal in all project directories  which are opened by IntelliJ IDE and  run ‘npm install’ to install dependencies.
+
+4.	Open Eclipse and import RMI Client & RMI server which are download by GitHub.
+
+
+5.	Open Command Prompt and Go to directory of RMI Server bin folder (“……./Distribute-System\Desktop_Client&RMIServer\Server\bin”)   and give ‘start rmiregistry’.
+
+6.	Next move to RESTFul Web Service project in IntelliJ IDE and run ‘nodemon server.js’ to run Rest API.
+
+
+7.	Next go to SensorDummy Project and run ‘node dummy.js’ to run Sensor Dummy App.
+
+8.	Next  go to WebClient and run ‘npm start’.
+
+9.	Next Go to Eclipse and right click on the  server.js  which in located at Server project run as Java Application.
+
+
+10.	Next move to Login.js which is located at Client project and run as Java Application.
+
+For More Details Watch  https://youtu.be/3Q3TFb0jsTw
