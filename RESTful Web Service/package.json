@@ -17,7 +17,7 @@
     "twilio": "^3.43.0"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "nodemailer": "^6.4.6"
   }
